@@ -1,0 +1,8 @@
+```
+psycopg2-binary==2.9.9
+fpdf==1.7.2
+pywin32==306
+pandas==2.1.1
+matplotlib==3.8.0
+numpy==1.26.0
+```
